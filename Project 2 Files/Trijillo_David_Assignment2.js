@@ -1,6 +1,11 @@
-// alert("JavaScript works!");
+// SDI Project 2 1301
+// Author David Trijillo
+// 01/17/2013
 
-var startDay = ["wake up", "take shower", "brush teeth", "get dressed", "go to work"];
+
+
+alert("JavaScript works!");
+
 var name = ("David");
 var morning = true
 
@@ -39,6 +44,8 @@ var timeSpent = function(firstNum, secondNum, thirdNum) {
 };
 timeSpent(30, 20, 10);
 
+//Array Function
+
 var startDay = function( WU, TS, BT, GD, GTW )		{
 		console.log("Everyday I follow the same routine, first I " + WU + ", then I " + TS + 
 		", next I " + BT + ", after that I " + GD + " and once I'm dressed I'm ready to " + GTW + "!");
@@ -47,8 +54,13 @@ var startDay = function( WU, TS, BT, GD, GTW )		{
 };
 		
 startDay("wake up", "take a shower", "brush teeth", "get dressed", "go to work")
-//
 
+
+
+// Mr Lewis,
+// I hope that the functions don't have to be in a specific order as it was hard enough trying to figure out what "real life" actions
+// would fit with which function. 
+// Thanks, David Trijillo
 
 
 
